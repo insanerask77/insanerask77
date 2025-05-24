@@ -1,6 +1,7 @@
 
 
 ## 👋 Hi, I'm Rafael Madolell
+![ChatGPT Image May 24, 2025, 05_39_05 PM](https://github.com/user-attachments/assets/e3672287-8884-4ee1-b94b-ceff4e20658d)
 
 🔧 **DevOps Engineer | Passionate about Cybersecurity and Scalable Infrastructure**
 
