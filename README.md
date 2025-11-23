@@ -23,7 +23,11 @@ Currently working at Blue Trail Software, I’m continuously growing as a DevOps
 
 ## 💼 Work Experience
 
-### 🔹 Blue Trail Software (Feb 2022 – Present)
+### 🔹 S2Grupo (Sep 2025)
+
+## Building my future.
+
+### 🔹 Blue Trail Software (Feb 2022 – Sep 2025)
 
 **Key Projects:**
 
