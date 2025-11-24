@@ -61,9 +61,9 @@ Tobalcaide, Spain – 2022
 
 ## 📫 Contact
 
-**Email:** (add your email)
-**LinkedIn:** (add your profile)
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+**Email:** (rmadolell@gmail.com)
+**LinkedIn:** (https://www.linkedin.com/in/rafael-madolell/)
+**GitHub:** [github.com/yourusername](https://github.com/insanerask77)
 
 ---
 
