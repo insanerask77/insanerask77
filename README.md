@@ -63,7 +63,7 @@ Tobalcaide, Spain – 2022
 
 **Email:** (rmadolell@gmail.com)
 **LinkedIn:** (https://www.linkedin.com/in/rafael-madolell/)
-**GitHub:** [github.com/yourusername](https://github.com/insanerask77)
+**GitHub:** [github.com/insanerask77](https://github.com/insanerask77)
 
 ---
 
